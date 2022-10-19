@@ -28,7 +28,7 @@ function App() {
           /> */}
           <CursorChat
             presenceURL="https://prsc.yomo.dev"
-            presenceAuthEndpoint="/api/auth"
+            presenceAuthEndpoint="/.netlify/functions/presence-auth"
             avatar="https://avatars.githubusercontent.com/u/67308985?s=200&v=4"
             theme="dark"
             name="name"
