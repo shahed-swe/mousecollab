@@ -33,6 +33,7 @@ function App() {
             theme="dark"
             name="name"
           />;
+          {/* simple changes */}
         </a>
       </header>
     </div>
